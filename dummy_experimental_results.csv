@@ -1,0 +1,7 @@
+refcode,experiment_name,temperature_C,intensity_a.u.,units,notes,doi
+CIJBEF,Photoluminescence Intensity vs Temperature,25,1200,a.u.,Baseline measurement at room temperature,10.1021/acs.analchem.8b00494
+CIJBEF,Photoluminescence Intensity vs Temperature,50,1100,a.u.,Slight decrease in intensity with temperature,10.1021/acs.analchem.8b00494
+CIJBEF,Photoluminescence Intensity vs Temperature,75,900,a.u.,Significant decrease in luminescence,10.1021/acs.analchem.8b00494
+CIJBIJ,Photoluminescence Intensity vs Temperature,25,1500,a.u.,Baseline measurement at room temperature,10.1021/acs.analchem.8b00494
+CIJBIJ,Photoluminescence Intensity vs Temperature,50,1400,a.u.,Small decrease in intensity,10.1021/acs.analchem.8b00494
+CIJBIJ,Photoluminescence Intensity vs Temperature,75,1150,a.u.,"Strong decrease, consistent with thermal quenching",10.1021/acs.analchem.8b00494
